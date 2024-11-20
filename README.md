@@ -16,11 +16,15 @@
   공백을 눈으로 확인할 수 있음
 
 
+
+
 ### Unity Code Snippets
 
 ![image](https://github.com/user-attachments/assets/cf09a621-4ba1-4f96-9ecf-4cf4a5bbaa05)
 
   코드 자동완성 도와주는 확장
+
+
 
 ### Korean Language Pack for Visual Studio Code
 
@@ -28,17 +32,23 @@
 
   그냥 VSCode 한글패치
 
+
+
 ### Project Manager
 
 ![image](https://github.com/user-attachments/assets/05ad9bc7-7a60-42a0-a8f5-75acd0fdd0e6)
 
   프로젝트별로 저장하고 나중에 다시 불러올때 정말 편함
 
+
+
 ### Material Icon Theme
 
 ![image](https://github.com/user-attachments/assets/fed94fe5-d34c-4f66-b07d-037902da9881)
 
   프로젝트의 칙칙한 폴더나 파일을 이쁘게 만들어줌
+
+
 
 ### GitLens -- Git supercharged
 
