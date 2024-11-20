@@ -1,7 +1,7 @@
 # Settings_VSCode
 ## VSCode 확장 및 세팅하면 도움되었던것들
 
-### Braket Pair Color DLW
+### 🪛Braket Pair Color DLW
 
 ![image](https://github.com/user-attachments/assets/2f76c777-61e2-43a3-a937-da8cac0ae5c9)
 
@@ -18,7 +18,7 @@
 
 
 
-### Unity Code Snippets
+### 🪛Unity Code Snippets
 
 ![image](https://github.com/user-attachments/assets/cf09a621-4ba1-4f96-9ecf-4cf4a5bbaa05)
 
@@ -34,7 +34,7 @@
 
 
 
-### Project Manager
+### 🪛Project Manager
 
 ![image](https://github.com/user-attachments/assets/05ad9bc7-7a60-42a0-a8f5-75acd0fdd0e6)
 
@@ -42,7 +42,7 @@
 
 
 
-### Material Icon Theme
+### 🪛Material Icon Theme
 
 ![image](https://github.com/user-attachments/assets/fed94fe5-d34c-4f66-b07d-037902da9881)
 
@@ -50,7 +50,7 @@
 
 
 
-### GitLens -- Git supercharged
+### 🪛GitLens -- Git supercharged
 
 ![image](https://github.com/user-attachments/assets/4a358a10-369a-4610-a6a2-650b57f2c7af)
 
