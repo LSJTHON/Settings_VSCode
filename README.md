@@ -26,7 +26,7 @@
 
 
 
-### Korean Language Pack for Visual Studio Code
+### 🪛Korean Language Pack for Visual Studio Code
 
 ![image](https://github.com/user-attachments/assets/0706203e-46ce-4417-b861-e5dbe7a19665)
 
@@ -58,7 +58,7 @@
   
 
 
-### VSC 수동 업데이트
+### 🪛VSC 수동 업데이트
 
   프롬프트에서 winget upgrade --id Microsoft.VisualStudioCode 입력
 
