@@ -60,7 +60,7 @@
 
 ### 🪛VSC 수동 업데이트
 
-  프롬프트에서 winget upgrade --id Microsoft.VisualStudioCode 입력
+ 명령 프롬프트에서 winget upgrade --id Microsoft.VisualStudioCode 입력
 
 
 
