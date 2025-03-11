@@ -58,6 +58,12 @@
 
  
 ## == React ==
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" 
+       alt="React Badge" 
+       height="50"/>
+</a>
+
 ### 🪛 Auto Close Tag
 
 ![image](https://github.com/user-attachments/assets/7f3d434e-5620-4d33-bd6a-13213df15303)
