@@ -64,6 +64,23 @@
 
   시작 태그만 입력해도 알아서 닫는 태그를 달아줌.
 
+### 🪛 Color Highlight
+
+![image](https://github.com/user-attachments/assets/d4b4cf74-5d1a-49a5-80a1-08fb1ad8fd9c)
+
+  색상 코드의 색상을 배경으로 표시해
+
+### 🪛 Reactjs code snippets
+
+![image](https://github.com/user-attachments/assets/904be401-7d9d-412b-89e6-e199e6802920)
+
+  리액트 코드를 작성할때 스니펫 제공함
+
+### 🪛 NPM Scripts
+
+![image](https://github.com/user-attachments/assets/52d12d00-8345-449a-9eaf-faf5a9ed3e81)
+
+  NPM 관련 기능을 버튼으로 편하게 실행 가능
 
 
 
