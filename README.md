@@ -5,8 +5,8 @@
   <img src="https://img.shields.io/badge/General-808080?style=for-the-badge" 
        alt="General Badge" 
        height="50"/>
+  <h2><span style="color: cyan;">↓</span></h2>
 </a>
-<h2><span style="color: cyan;">↓</span></h2>
 <hr>
 
 
