@@ -1,6 +1,23 @@
 # Settings_VSCode
 ## VSCode 확장 및 세팅하면 도움되었던것들
 
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/General-808080?style=for-the-badge" 
+       alt="General Badge" 
+       height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Shared-00A8E8?style=for-the-badge" 
+       alt="Shared Badge" 
+       height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Universal-FF5733?style=for-the-badge" 
+       alt="Universal Badge" 
+       height="50"/>
+</a>
 ## == Public ==
 ### 🪛Braket Pair Color DLW
 
@@ -46,8 +63,12 @@
 
 
 
-
-## == Unity ==
+<a href="https://unity.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge" 
+       alt="Unity Badge" 
+       height="50"/>
+</a>
+##
 ### 🪛Unity Code Snippets
 
 ![image](https://github.com/user-attachments/assets/cf09a621-4ba1-4f96-9ecf-4cf4a5bbaa05)
@@ -57,13 +78,13 @@
 
 
  
-## == React ==
+
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" 
        alt="React Badge" 
        height="50"/>
 </a>
-
+##
 ### 🪛 Auto Close Tag
 
 ![image](https://github.com/user-attachments/assets/7f3d434e-5620-4d33-bd6a-13213df15303)
