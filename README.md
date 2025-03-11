@@ -6,7 +6,7 @@
        alt="General Badge" 
        height="50"/>
 </a>
-##
+## 
 ### 🪛Braket Pair Color DLW
 
 ![image](https://github.com/user-attachments/assets/2f76c777-61e2-43a3-a937-da8cac0ae5c9)
@@ -56,7 +56,7 @@
        alt="Unity Badge" 
        height="50"/>
 </a>
-##
+## 
 ### 🪛Unity Code Snippets
 
 ![image](https://github.com/user-attachments/assets/cf09a621-4ba1-4f96-9ecf-4cf4a5bbaa05)
@@ -72,7 +72,7 @@
        alt="React Badge" 
        height="50"/>
 </a>
-##
+## 
 ### 🪛 Auto Close Tag
 
 ![image](https://github.com/user-attachments/assets/7f3d434e-5620-4d33-bd6a-13213df15303)
