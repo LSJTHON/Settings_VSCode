@@ -1,7 +1,7 @@
 # Settings_VSCode
 ## VSCode 확장 및 세팅하면 도움되었던것들
 
-## == Unity ==
+## == Public ==
 ### 🪛Braket Pair Color DLW
 
 ![image](https://github.com/user-attachments/assets/2f76c777-61e2-43a3-a937-da8cac0ae5c9)
@@ -15,17 +15,28 @@
 ![image](https://github.com/user-attachments/assets/41ebefde-2658-4960-bf6a-06f97c1bcd7e)
 
   공백을 눈으로 확인할 수 있음
+  
+### 🪛VSC 수동 업데이트
 
+ 명령 프롬프트에서 winget upgrade --id Microsoft.VisualStudioCode 입력
 
+### 🪛GitLens -- Git supercharged
 
+![image](https://github.com/user-attachments/assets/4a358a10-369a-4610-a6a2-650b57f2c7af)
 
-### 🪛Unity Code Snippets
+  깃 관련 확장인데 레전드 History별로 비교 가능하고 마지막 수정자를 바로 볼 수 있기도하고 여러가지 있음.
 
-![image](https://github.com/user-attachments/assets/cf09a621-4ba1-4f96-9ecf-4cf4a5bbaa05)
+### 🪛Material Icon Theme
 
-  코드 자동완성 도와주는 확장
+![image](https://github.com/user-attachments/assets/fed94fe5-d34c-4f66-b07d-037902da9881)
 
+  프로젝트의 칙칙한 폴더나 파일을 이쁘게 만들어줌
 
+### 🪛Project Manager
+
+![image](https://github.com/user-attachments/assets/05ad9bc7-7a60-42a0-a8f5-75acd0fdd0e6)
+
+  프로젝트별로 저장하고 나중에 다시 불러올때 정말 편함
 
 ### 🪛Korean Language Pack for Visual Studio Code
 
@@ -34,37 +45,14 @@
   그냥 VSCode 한글패치
 
 
+## == Unity ==
+### 🪛Unity Code Snippets
 
-### 🪛Project Manager
+![image](https://github.com/user-attachments/assets/cf09a621-4ba1-4f96-9ecf-4cf4a5bbaa05)
 
-![image](https://github.com/user-attachments/assets/05ad9bc7-7a60-42a0-a8f5-75acd0fdd0e6)
+  코드 자동완성 도와주는 확장
 
-  프로젝트별로 저장하고 나중에 다시 불러올때 정말 편함
-
-
-
-### 🪛Material Icon Theme
-
-![image](https://github.com/user-attachments/assets/fed94fe5-d34c-4f66-b07d-037902da9881)
-
-  프로젝트의 칙칙한 폴더나 파일을 이쁘게 만들어줌
-
-
-
-### 🪛GitLens -- Git supercharged
-
-![image](https://github.com/user-attachments/assets/4a358a10-369a-4610-a6a2-650b57f2c7af)
-
-  깃 관련 확장인데 레전드 History별로 비교 가능하고 마지막 수정자를 바로 볼 수 있기도하고 여러가지 있음.
-  
-
-
-### 🪛VSC 수동 업데이트
-
- 명령 프롬프트에서 winget upgrade --id Microsoft.VisualStudioCode 입력
-
-
-
+ 
 ## == React ==
 
 ![image](https://github.com/user-attachments/assets/7f3d434e-5620-4d33-bd6a-13213df15303)
