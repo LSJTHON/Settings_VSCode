@@ -1,17 +1,17 @@
 # Settings_VSCode
 ## VSCode 확장 및 세팅하면 도움되었던것들
 
-<span>
+<span style="display: flex; flex-direction: column; align-items: center;">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/General-808080?style=for-the-badge" 
          alt="General Badge" 
          height="50"/>
   </a>
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Red_Arrow_Down.svg/30px-Red_Arrow_Down.svg.png"
-       alt="Arrow Down" 
-       height="30"/>
+  <svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 4V20M19 13L12 20L5 13" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
 </span>
+
 
 <hr>
 
