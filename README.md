@@ -7,11 +7,9 @@
          alt="General Badge" 
          height="50"/>
   </a>
-  ⬇
+  <br/>
+  <span style="font-size: 30px;">⬇</span>
 </span>
-
-
-
 <hr>
 
 
