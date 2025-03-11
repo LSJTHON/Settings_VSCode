@@ -7,9 +7,13 @@
          alt="General Badge" 
          height="50"/>
   </a>
-  <span style="font-size: 100px;">⬇</span>
+
+  <img src="https://github.com/user-attachments/assets/9f1681d4-5d20-481f-b1db-b0a3d5e8f7bb"
+       alt="Custom Image" 
+       height="30"/>
 </span>
 <hr>
+![image](https://github.com/user-attachments/assets/9f1681d4-5d20-481f-b1db-b0a3d5e8f7bb)
 
 
 ### 🪛Braket Pair Color DLW
