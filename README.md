@@ -7,9 +7,6 @@
          height="50"/>
 </a>
 <hr>
-![image](https://github.com/user-attachments/assets/9f1681d4-5d20-481f-b1db-b0a3d5e8f7bb)
-
-
 ### 🪛Braket Pair Color DLW
 
 ![image](https://github.com/user-attachments/assets/2f76c777-61e2-43a3-a937-da8cac0ae5c9)
