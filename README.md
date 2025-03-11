@@ -6,19 +6,7 @@
        alt="General Badge" 
        height="50"/>
 </a>
-
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Shared-00A8E8?style=for-the-badge" 
-       alt="Shared Badge" 
-       height="50"/>
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Universal-FF5733?style=for-the-badge" 
-       alt="Universal Badge" 
-       height="50"/>
-</a>
-## == Public ==
+##
 ### 🪛Braket Pair Color DLW
 
 ![image](https://github.com/user-attachments/assets/2f76c777-61e2-43a3-a937-da8cac0ae5c9)
