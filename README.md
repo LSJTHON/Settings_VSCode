@@ -7,13 +7,12 @@
          alt="General Badge" 
          height="50"/>
   </a>
-
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" 
-         alt="React Badge" 
-         height="50"/>
-  </a>
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Red_Arrow_Down.svg/30px-Red_Arrow_Down.svg.png"
+       alt="Arrow Down" 
+       height="30"/>
 </span>
+
 <hr>
 
 
