@@ -45,6 +45,8 @@
   그냥 VSCode 한글패치
 
 
+
+
 ## == Unity ==
 ### 🪛Unity Code Snippets
 
@@ -52,12 +54,17 @@
 
   코드 자동완성 도와주는 확장
 
+
+
  
 ## == React ==
+### 🪛 Auto Close Tag
 
 ![image](https://github.com/user-attachments/assets/7f3d434e-5620-4d33-bd6a-13213df15303)
 
   시작 태그만 입력해도 알아서 닫는 태그를 달아줌.
+
+
 
 
 
