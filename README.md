@@ -1,6 +1,7 @@
 # Settings_VSCode
 ## VSCode 확장 및 세팅하면 도움되었던것들
 
+## == Unity ==
 ### 🪛Braket Pair Color DLW
 
 ![image](https://github.com/user-attachments/assets/2f76c777-61e2-43a3-a937-da8cac0ae5c9)
@@ -64,7 +65,11 @@
 
 
 
+## == React ==
 
+![image](https://github.com/user-attachments/assets/7f3d434e-5620-4d33-bd6a-13213df15303)
+
+  시작 태그만 입력해도 알아서 닫는 태그를 달아줌.
 
 
 
