@@ -1,19 +1,11 @@
 # Settings_VSCode
 ## VSCode 확장 및 세팅하면 도움되었던것들
 
-<span style="display: inline-flex; align-items: center;">
-  <a href="#" target="_blank">
+<a href="#" target="_blank">
     <img src="https://img.shields.io/badge/General-808080?style=for-the-badge" 
          alt="General Badge" 
          height="50"/>
-  </a>
-
-  <img src="https://github.com/user-attachments/assets/9f1681d4-5d20-481f-b1db-b0a3d5e8f7bb"
-       alt="Custom Image" 
-       height="30"
-       style="margin-left: 5px;"/>
-</span>
-
+</a>
 <hr>
 ![image](https://github.com/user-attachments/assets/9f1681d4-5d20-481f-b1db-b0a3d5e8f7bb)
 
