@@ -1,7 +1,7 @@
 # Settings_VSCode
 ## VSCode 확장 및 세팅하면 도움되었던것들
 
-<span>
+<span style="display: inline-flex; align-items: center;">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/General-808080?style=for-the-badge" 
          alt="General Badge" 
@@ -10,8 +10,10 @@
 
   <img src="https://github.com/user-attachments/assets/9f1681d4-5d20-481f-b1db-b0a3d5e8f7bb"
        alt="Custom Image" 
-       height="30"/>
+       height="30"
+       style="margin-left: 5px;"/>
 </span>
+
 <hr>
 ![image](https://github.com/user-attachments/assets/9f1681d4-5d20-481f-b1db-b0a3d5e8f7bb)
 
