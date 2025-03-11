@@ -1,12 +1,19 @@
 # Settings_VSCode
 ## VSCode 확장 및 세팅하면 도움되었던것들
 
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/General-808080?style=for-the-badge" 
-       alt="General Badge" 
-       height="50"/>
-  <h2><span style="color: cyan;">↓</span></h2>
-</a>
+<span>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/General-808080?style=for-the-badge" 
+         alt="General Badge" 
+         height="50"/>
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" 
+         alt="React Badge" 
+         height="50"/>
+  </a>
+</span>
 <hr>
 
 
