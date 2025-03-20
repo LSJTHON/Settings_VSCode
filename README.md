@@ -9,10 +9,6 @@
 <hr>
 ### 🪛Braket Pair Color DLW
 
-![image](https://github.com/user-attachments/assets/4f10d7e9-22d4-4e85-ac05-b4edc7838035)
-
-  DB 설계할때 나름 유용하게 사용함
-
 ![image](https://github.com/user-attachments/assets/2f76c777-61e2-43a3-a937-da8cac0ae5c9)
 
   중괄호나 괄호를 더 구분하기 쉽게 색깔별로 나타내줌
@@ -24,6 +20,10 @@
 ![image](https://github.com/user-attachments/assets/41ebefde-2658-4960-bf6a-06f97c1bcd7e)
 
   공백을 눈으로 확인할 수 있음
+  
+![image](https://github.com/user-attachments/assets/4f10d7e9-22d4-4e85-ac05-b4edc7838035)
+
+  DB 설계할때 나름 유용하게 사용함
   
 ### 🪛VSC 수동 업데이트
 
