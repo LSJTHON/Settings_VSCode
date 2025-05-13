@@ -24,6 +24,12 @@
 ![image](https://github.com/user-attachments/assets/4f10d7e9-22d4-4e85-ac05-b4edc7838035)
 
   DB 설계할때 나름 유용하게 사용함
+
+![image](https://github.com/user-attachments/assets/cbe72135-77fc-45b2-9dd2-aaa2131ffaf5)
+![image](https://github.com/user-attachments/assets/1e78a12a-6218-4b1c-8b3a-ac39f1ea619e)
+
+
+  폴더 들여쓰기 간격을 설정할 수 있다.
   
 ### 🪛VSC 수동 업데이트
 
